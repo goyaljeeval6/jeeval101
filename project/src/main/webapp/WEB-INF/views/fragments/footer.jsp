@@ -1,0 +1,1 @@
+<footer class="footer"><div><a class="brand" href="${pageContext.request.contextPath}/">Shop<span>Sphere</span></a><p>Thoughtful shopping, made simple.</p></div><small>Student project · Mock payment only · © ShopSphere</small></footer>
